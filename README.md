@@ -1,2 +1,2 @@
 # hello-world
-just a test
+hello there! I am learning Java now.
